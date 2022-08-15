@@ -16,7 +16,7 @@ def test():
     print (file)
 
     img = Image.open(file)
-    
+
     #if you want, you can open the image to preview it by uncommenting the next line.
     # img.show()
        
